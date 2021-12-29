@@ -14,3 +14,4 @@ function ingExtractor(string) {
   }
 
   console.log(ingExtractor("zing went ring, ding wing SINk"))
+  console.log(ingExtractor("going wanting"))
