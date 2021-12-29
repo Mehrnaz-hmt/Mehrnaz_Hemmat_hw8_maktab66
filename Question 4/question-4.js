@@ -12,3 +12,5 @@ function ingExtractor(string) {
         }
       });
   }
+
+  console.log(ingExtractor("zing went ring, ding wing SINk"))
